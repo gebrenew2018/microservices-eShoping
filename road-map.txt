@@ -1,0 +1,19 @@
+customer-service
+	- register-customer
+	- update-customer
+	- delete-customer
+	- fetch-customer/s
+	
+product-service
+	- create product
+	- update product
+	- delete product
+	- fetch product/s
+	
+cart-service
+	- add-item
+	- remove-item
+	
+order-service
+	- place-order
+	- cancel-order
